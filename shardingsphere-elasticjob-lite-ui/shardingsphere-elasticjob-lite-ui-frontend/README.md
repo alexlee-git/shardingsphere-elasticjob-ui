@@ -1,5 +1,9 @@
 # ElasticJob UI Frontend
 
+## Environment version
+
+nodejs : 14
+
 ## How to Build
 
 ```bash
